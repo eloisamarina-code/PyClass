@@ -1,6 +1,6 @@
 # Python
 
-Este repositório é mantido por voluntárias do Pyladies Bioinfo. Este material serve como base o o nivelamento das Pyladies Bioinfo que desejam aprender como empregar conceitos de Bioinformática por meio da linguagem de programação Python.
+Este repositório é mantido por voluntárias do Pyladies Bioinfo. Este material serve como base para o nivelamento das Pyladies Bioinfo que desejam aprender como empregar conceitos de Bioinformática por meio da linguagem de programação Python.
 
 ## Cronograma de atividades
 
