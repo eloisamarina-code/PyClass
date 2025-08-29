@@ -9,7 +9,7 @@ Este repositório é mantido por voluntárias do Pyladies Bioinfo. Este material
 ## Aulas
 
 
-**Aula 01 | Interpretadore**
+**Aula 01 | Interpretadores**
 
 [Video-aula]() |
 [Aula](class01/class.ipynb) | 
@@ -23,7 +23,7 @@ Este repositório é mantido por voluntárias do Pyladies Bioinfo. Este material
 [Exercícios](class02/exercises.ipynb) |
 [Respostas](class02/responses.ipynb)
 
-**Aula 03 | Listas, Dicionários e Sets**
+**Aula 03 | Listas, Tuplas, Dicionários e Sets**
 
 [Video-aula]() |
 [Aula](class03/class.ipynb) | 
@@ -79,4 +79,8 @@ Este repositório é mantido por voluntárias do Pyladies Bioinfo. Este material
 [Exercícios](class10/exercises.ipynb) |
 [Respostas](class10/responses.ipynb)
 
+**Aula 11 | Git e Github**
+
+[Video-aula]() |
+[Repositório](https://github.com/biopyladies/github) | 
 
