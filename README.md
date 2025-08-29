@@ -13,70 +13,70 @@ Este repositório é mantido por voluntárias do Pyladies Bioinfo. Este material
 
 [Video-aula]() |
 [Aula](class01/class.ipynb) | 
-[Exercícios]() |
-[Respostas]()
+[Exercícios](class01/exercises.ipynb) |
+[Respostas](class01/responses.ipynb)
 
 **Textos e Strings**
 
 [Video-aula]() |
 [Aula](class02/class.ipynb) | 
-[Exercícios]() |
-[Respostas]()
+[Exercícios](class02/exercises.ipynb) |
+[Respostas](class02/responses.ipynb)
 
 **Listas, Dicionários e Sets**
 
 [Video-aula]() |
 [Aula](class03/class.ipynb) | 
-[Exercícios]() |
-[Respostas]()
+[Exercícios](class03/exercises.ipynb) |
+[Respostas](class03/responses.ipynb)
 
 **Controle de Fluxo e Operadores Booleanos**
 
 [Video-aula]() |
 [Aula](class04/class.ipynb) | 
-[Exercícios]() |
-[Respostas]()
+[Exercícios](class04/exercises.ipynb) |
+[Respostas](class04/responses.ipynb)
 
 **Manipulação de Arquivos**
 
 [Video-aula]() |
 [Aula](class05/class.ipynb) | 
-[Exercícios]() |
-[Respostas]()
+[Exercícios](class05/exercises.ipynb) |
+[Respostas](class05/responses.ipynb)
 
 **Funções**
 
 [Video-aula]() |
 [Aula](class06/class.ipynb) | 
-[Exercícios]() |
-[Respostas]()
+[Exercícios](class06/exercises.ipynb) |
+[Respostas](class06/responses.ipynb)
 
 **Comprehensions**
 
 [Video-aula]() |
 [Aula](class07/class.ipynb) | 
-[Exercícios]() |
-[Respostas]()
+[Exercícios](class07/exercises.ipynb) |
+[Respostas](class07/responses.ipynb)
 
 **Excessões**
 
 [Video-aula]() |
 [Aula](class08/class.ipynb) | 
-[Exercícios]() |
-[Respostas]()
+[Exercícios](class08/exercises.ipynb) |
+[Respostas](class08/responses.ipynb)
 
 **Módulos**
 
 [Video-aula]() |
 [Aula](class09/class.ipynb) | 
-[Exercícios]() |
-[Respostas]()
+[Exercícios](class09/exercises.ipynb) |
+[Respostas](class09/responses.ipynb)
 
 **Classes**
 
 [Video-aula]() |
 [Aula](class10/class.ipynb) | 
-[Exercícios]() |
-[Respostas]()
+[Exercícios](class10/exercises.ipynb) |
+[Respostas](class10/responses.ipynb)
 
 
