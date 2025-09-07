@@ -24,7 +24,7 @@ Este repositório é mantido por voluntárias do Pyladies Bioinfo. Este material
 - [Respostas](class02/responses.ipynb)
 
 **Aula 03 | Listas, Tuplas, Dicionários e Sets**: 
-- [Video-aula]() 
+- [Video-aula](https://youtu.be/zb7-9CxZAK8?si=8Xxhn3_fVPSb0FG5)
 - [Aula](class03/class.ipynb)  
 - [Exercícios](class03/exercises.ipynb) 
 - [Respostas](class03/responses.ipynb)
